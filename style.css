@@ -1,0 +1,12 @@
+#main_title{
+    text-align: center;
+    color: black;
+    letter-spacing: 2px;
+    padding: 20px;
+}
+.box1 h2{
+    float: left;
+}
+.box1 button{
+    float: right;
+}
